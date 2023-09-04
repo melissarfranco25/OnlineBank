@@ -60,7 +60,7 @@ public class Customer{
 }
 /**
  * Class Accounts extends Customer. Creates default methods for different type of accounts.
- * @author Amy Rivera
+ * @author Melissa Rivera-Franco
  */
 class Accounts extends Customer {
     
@@ -136,7 +136,7 @@ class Accounts extends Customer {
 
 /**
  * Class Checkings extends Accounts. 
- * @author Amy Rivera
+ * @author Melissa Rivera-Franco
  */
 class Checkings extends Accounts{
     
@@ -175,7 +175,7 @@ class Checkings extends Accounts{
 
 /**
  * Class savings that extends Accounts.
- * @author Amy Rivera
+ * @author Melissa Rivera-Franco
  */
 class Savings extends Accounts{
     Scanner sc = new Scanner(System.in);
@@ -219,7 +219,7 @@ class Savings extends Accounts{
 
 /**
  * Class credit card that extends Accounts. 
- * @author Amy Rivera
+ * @author Melissa Rivera-Franco
  */
 class CreditCard extends Accounts{
     
@@ -268,7 +268,7 @@ class CreditCard extends Accounts{
 
 /**
  * Online bank for the main method.
- * @author Amy Rivera
+ * @author Melissa Rivera-Franco
  */
 class onlineBank{
     
